@@ -59,7 +59,7 @@ def write():
             break
 
         if prompt:
-            text = input("-- ")
+            text = input("")
         else:
             text = input()
 
